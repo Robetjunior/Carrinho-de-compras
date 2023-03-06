@@ -29,7 +29,7 @@
     <img src="./public/rocketshoes.png" alt="Logo" width="800" height="600">
   </a>
   <a href="https://github.com/Robetjunior/Carrinho-de-compras">
-    <img src="./public/rocketshoes2.png" alt="Logo" width="380" height="800">
+    <img src="./public/rocketshoes2.png" alt="Logo" width="800" height="600">
   </a>
 
 <h2 align="center">TODO LIST</h2>
